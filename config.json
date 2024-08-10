@@ -19,7 +19,7 @@
     }
   },
   "portalUrl": "https://labgeo-ifpe.maps.arcgis.com",
-  "appId": "",
+  "appId": "a2d643eeac4c40dbb280ef70d41ce2b9",
   "authorizedCrossOriginDomains": [],
   "title": "PSA PE",
   "subtitle": "with ArcGIS Web AppBuilder",
